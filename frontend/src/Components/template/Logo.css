@@ -1,0 +1,15 @@
+aside.logo{
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+aside.logo img{
+    padding: 0px 15px;
+    width: 20px;
+    height: 10px;
+    background-color:cadetblue;
+
+
+}

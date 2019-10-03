@@ -1,0 +1,22 @@
+.divCat{
+    background-color: darksalmon;
+    position: absolute;
+    min-width: 380px;
+    max-height: 450px;
+    text-overflow: unset;
+    
+}
+.img{
+    min-width: 273px;
+    min-height: 185px;
+    
+
+}
+
+p{
+    max-height: 300px;
+    text-overflow: hidden;
+    
+
+
+}
